@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap");
+
+.blog-title {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 2em;
+  margin-top: 2em;
+}
+
+.author {
+  text-align: center;
+  font-size: 1em;
+}
+
+.post p {
+  font-style: italic;
+  margin: 0 10em;
+}
+
+span {
+  text-transform: capitalize;
+}
+
+/* Footer */
+.social > p {
+  /* font-style: normal; */
+  font-size: 1em;
+  display: inline-block;
+}
